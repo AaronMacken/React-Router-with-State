@@ -1,0 +1,22 @@
+.App {
+    padding: 2rem;
+}
+
+.content-div {
+    display: flex;
+    justify-content: center;
+}
+
+.todo {
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f1f1f1;
+    width: 30rem;
+}
+
+.todos-col {
+    display: flex;
+    justify-content: center;
+}
